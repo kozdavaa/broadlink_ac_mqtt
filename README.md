@@ -1,8 +1,7 @@
 # Info:
 
-
-
-
+This repositories is the fork of the [liaan/baordlink_ac_mqtt](https://github.com/liaan/broadlink_ac_mqtt) repositories.
+The aim of this fork to add new Fixtion feature for the original repositories, and integrate to an new docker container.
 
 # Broadlink Air Conditioners to mqtt  
 
